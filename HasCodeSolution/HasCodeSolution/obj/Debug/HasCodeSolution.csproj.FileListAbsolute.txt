@@ -1,0 +1,8 @@
+C:\Users\ASUS\source\repos\HasCodeSolution\HasCodeSolution\bin\Debug\HasCodeSolution.exe.config
+C:\Users\ASUS\source\repos\HasCodeSolution\HasCodeSolution\bin\Debug\HasCodeSolution.exe
+C:\Users\ASUS\source\repos\HasCodeSolution\HasCodeSolution\bin\Debug\HasCodeSolution.pdb
+C:\Users\ASUS\source\repos\HasCodeSolution\HasCodeSolution\obj\Debug\HasCodeSolution.csproj.AssemblyReference.cache
+C:\Users\ASUS\source\repos\HasCodeSolution\HasCodeSolution\obj\Debug\HasCodeSolution.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\source\repos\HasCodeSolution\HasCodeSolution\obj\Debug\HasCodeSolution.exe
+C:\Users\ASUS\source\repos\HasCodeSolution\HasCodeSolution\obj\Debug\HasCodeSolution.pdb
+C:\Users\ASUS\source\repos\HasCodeSolution\HasCodeSolution\obj\Debug\HasCodeSolution.csproj.SuggestedBindingRedirects.cache
